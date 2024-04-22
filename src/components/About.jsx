@@ -17,7 +17,7 @@ const About = () => {
         I will explain almost all of the hard work at times, or what? Almost?
         </p>
         <p>
-        Commissions, we reject accusations, and we refuse him from nature to make the truth. Great!"
+        Commissions, we reject accusations, and we refuse him from nature to make the truth. Great!
         </p>
         <div className=" flex justify-center lg:justify-start">
           <Button title="Learn More" />
